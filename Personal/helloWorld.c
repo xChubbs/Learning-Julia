@@ -6,7 +6,7 @@ correcta de C
 // Manejo de entradas & Salidas
 #include <stdio.h>
 
-// Programa que se corre
+// Función que se corre
 int main(){
     printf("Hello World");
     return 0;
